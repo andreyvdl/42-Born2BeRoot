@@ -13,3 +13,21 @@ signature.txt | 🔰 🍥Debian 11.5.0 amd64 netinst | 110/100%
 
 > You must choose as an operating system either the latest stable version of Debian (no testing/unstable), or the latest stable version of Rocky.   
 > (Debian is highly recommended if you are new to system administration).
+
+## HD setup
+```
+NAME                    MAJ:MIN RM  SIZE RO TYPE  MOUNTPOINT   
+sda                       8:0    0   10G  0 disk     
+├─sda1                    8:1    0  476M  0 part  /boot   
+├─sda2                    8:2    0    1K  0 part     
+└─sda5                    8:5    0  9,5G  0 part     
+  └─sda5_crypt          254:0    0  9,5G  0 crypt    
+    ├─LVMGroup-root     254:1    0  3,2G  0 lvm   /   
+    ├─LVMGroup-swap     254:2    0  740M  0 lvm   [SWAP]   
+    ├─LVMGroup-home     254:3    0  1,6G  0 lvm   /home   
+    ├─LVMGroup-var      254:4    0  968M  0 lvm   /var   
+    ├─LVMGroup-srv      254:5    0  968M  0 lvm   /srv   
+    ├─LVMGroup-tmp      254:6    0  968M  0 lvm   /tmp   
+    └─LVMGroup-var--log 254:7    0  1,2G  0 lvm   /var/log   
+sr0                      11:0    1 1024M  0 rom      
+```
