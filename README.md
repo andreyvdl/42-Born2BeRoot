@@ -14,7 +14,14 @@ signature.txt | 🔰 🍥Debian 11.5.0 amd64 netinst | 110/100%
 > You must choose as an operating system either the latest stable version of Debian (no testing/unstable), or the latest stable version of Rocky.   
 > (Debian is highly recommended if you are new to system administration).
 
-## HD setup
+## VM Setup
+
+Type | Version | Memory | CPU | VMemory | Storage
+:---: | :---: | :---: | :---: | :---: | :---:
+Linux/GNU | Debian 64bits | 2048MB | 1 CPU | 16MB | 10GB
+
+## Partitions
+
 ```
 NAME                    MAJ:MIN RM  SIZE RO TYPE  MOUNTPOINT   
 sda                       8:0    0   10G  0 disk     
