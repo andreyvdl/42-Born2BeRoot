@@ -1,6 +1,4 @@
 # 42-Born2BeRoot
-My Born2BeRoot project
-
 
 Files to turn in | Result
 :---: | :---:
