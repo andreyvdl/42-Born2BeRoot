@@ -1,8 +1,8 @@
 # 42-Born2BeRoot
 
-Files to turn in | Result
-:---: | :---:
-signature.txt | 110/100%
+Files to turn in | OS selected | Result
+:---: | :---: | :---:
+signature.txt | 🔰 🍥Debian 11.5.0 amd64 netinst | 110/100%
 
 ## Objective
 
