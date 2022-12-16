@@ -2,7 +2,7 @@
 
 Files to turn in | OS selected | Result
 :---: | :---: | :---:
-signature.txt | 🔰 🍥Debian 11.5.0 amd64 netinst | 110/100%
+signature.txt | 🍥Debian 11.5.0 amd64 netinst | 110/100%
 
 ## Objective
 
