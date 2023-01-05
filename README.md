@@ -38,3 +38,14 @@ sda                       8:0    0   10G  0 disk
     └─LVMGroup-var--log 254:7    0  1,2G  0 lvm   /var/log   
 sr0                      11:0    1 1024M  0 rom      
 ```
+
+Partition name | 6 Gb | 8 Gb | 10 Gb | 30.8 Gb | Porcentage (based on the 30.8 Gb)
+:---: | :---: | :---: | :---: | :---: | :---:
+boot | 500 Mb | 500 Mb | 500 Mb | 500 Mb | 1.62%
+root | 1.9 Gb | 2.5 Gb | 3.2 Gb | 10 Gb | 32.47%
+swap | 448 Mb | 597 Mb | 747 Mb | 2.3 Gb | 7.47%
+home | 973 Mb | 1.2 Gb | 1.6 Gb | 5 Gb | 16.23%
+var | 584 Mb | 779 Mb | 974 Mb | 3 Gb | 9.74%
+srv | 584 Mb | 779 Mb | 974 Mb | 3 Gb | 9.74%
+tmp | 584 Mb | 779 Mb | 974 Mb | 3 Gb | 9.74%
+var--log | 779 Mb | 1 Gb | 1.2 Gb | 4 Gb | 12.99%
