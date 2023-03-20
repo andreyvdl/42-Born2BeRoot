@@ -1,5 +1,9 @@
-# 42-Born2BeRoot
+<div align="center">
+  <img src="https://github.com/gawbsouza/42-pdh/blob/main/dark/born2beroot_dark.svg"><br>
+  <a href="https://github.com/gawbsouza/42-pdh"><img src="https://github.com/gawbsouza/42-pdh/blob/main/badge/42pdh_badge.svg"></a>
+</div>
 
+___
 Files to turn in | OS selected | Result
 :---: | :---: | :---:
 signature.txt | 🍥Debian 11.5.0 amd64 netinst | 110/100%
